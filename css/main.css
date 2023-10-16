@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+
+.container{
+
+    text-align: center;
+    background-image: url(/img/abc.avif);
+    background-repeat: no-repeat;
+
+    background-position: 260px ;
+
+    background-size: contain;
+
+    /* color: white; */
+
+
+
+}
+
+.header a{
+    text-decoration: none;
+}
+
+.footer a{
+    text-decoration: none;
+}
+
+.dk{
+    padding: 1px;
+    margin: 20px;
+    color: white;
+    background-color: red;
+}
+
+img{
+    width: 10%;
+}
+
